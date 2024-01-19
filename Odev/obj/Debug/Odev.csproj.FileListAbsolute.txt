@@ -1,0 +1,10 @@
+C:\Users\cnR19\C#\Odev\Odev\obj\Debug\Odev.csproj.AssemblyReference.cache
+C:\Users\cnR19\C#\Odev\Odev\obj\Debug\Odev.Form1.resources
+C:\Users\cnR19\C#\Odev\Odev\obj\Debug\Odev.Properties.Resources.resources
+C:\Users\cnR19\C#\Odev\Odev\obj\Debug\Odev.csproj.GenerateResource.cache
+C:\Users\cnR19\C#\Odev\Odev\obj\Debug\Odev.csproj.CoreCompileInputs.cache
+C:\Users\cnR19\C#\Odev\Odev\bin\Debug\Odev.exe.config
+C:\Users\cnR19\C#\Odev\Odev\bin\Debug\Odev.exe
+C:\Users\cnR19\C#\Odev\Odev\bin\Debug\Odev.pdb
+C:\Users\cnR19\C#\Odev\Odev\obj\Debug\Odev.exe
+C:\Users\cnR19\C#\Odev\Odev\obj\Debug\Odev.pdb
